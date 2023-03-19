@@ -15,6 +15,12 @@ CLONAR EL REPOSITORIO
 
 - pip install requests
 
+- pip install bs4
+
+- pip install urllib3
+
+- pip install datetime
+
 - python mundobins.py
 
 *****
